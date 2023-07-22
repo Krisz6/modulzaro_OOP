@@ -1,3 +1,5 @@
+package person;
+
 public enum Gender {
     MALE("male", "férfi"),
     FEMALE("female", "nő");

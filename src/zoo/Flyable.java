@@ -1,2 +1,4 @@
-package zoo;public interface Flyable {
+package zoo;
+
+public interface Flyable {
 }

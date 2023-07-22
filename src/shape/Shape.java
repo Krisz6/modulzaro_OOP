@@ -1,2 +1,6 @@
-package shape;public class Shape {
+package shape;
+
+public abstract class Shape {
+    abstract double getPerimeter();
+    abstract double getArea();
 }

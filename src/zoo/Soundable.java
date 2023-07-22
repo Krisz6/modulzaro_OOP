@@ -1,2 +1,5 @@
-package zoo;public interface Soundable {
+package zoo;
+
+public interface Soundable {
+    void makeSound();
 }

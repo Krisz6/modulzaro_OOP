@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81b1c6c-2672-47d6-a867-467629fab85d" name="Changes" comment="" />
+    <list default="true" id="f81b1c6c-2672-47d6-a867-467629fab85d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/NegativNumberExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/NegativNumberExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/NotEnoughMoneyExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/NotEnoughMoneyExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shape/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Oviparous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Oviparous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Reptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Reptile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Soundable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Soundable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Viviparous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Viviparous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Zoo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Sv4jCWimQpFWvEfdOAjsxs3oci" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +63,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/szala/IdeaProjects/OOP_interface_gyak"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
